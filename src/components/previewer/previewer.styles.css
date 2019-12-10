@@ -1,0 +1,9 @@
+#preview {
+    width: 60%;
+    min-height: 300px;
+    max-height: 400px;
+    border: 1px grey solid;
+    margin: auto;
+    overflow: scroll;
+    background-color: lavender;
+}
